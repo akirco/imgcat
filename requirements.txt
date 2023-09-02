@@ -1,0 +1,7 @@
+imgcat==0.5.0
+Nuitka==1.8
+numpy==1.25.2
+ordered-set==4.1.0
+Pillow==10.0.0
+urllib3==2.0.4
+zstandard==0.21.0
